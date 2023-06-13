@@ -17,3 +17,10 @@ $ npm start
 ```
 
 -http://localhost:3000 에서 프론트엔드 서버 실행.
+
+#git clone 시 주의 사항
+---
+```
+$npm install
+```
+명령을 터미널에서 사용시 실행하여 라이브러리 사용
